@@ -1,0 +1,8 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.venv/
+# NUNCA subir datos reales ni mapas de anonimización
+df.csv
+mapa_*.csv
+.env

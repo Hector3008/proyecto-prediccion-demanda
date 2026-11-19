@@ -1,0 +1,14 @@
+# Probado con Python 3.13 (también compatible con 3.10+ / Google Colab)
+numpy>=1.26
+pandas>=2.1
+scipy>=1.11
+matplotlib>=3.9
+scikit-learn>=1.4
+xgboost>=2.0
+shap>=0.45
+# solo para ejecutar el notebook desde la terminal
+jupyter
+nbconvert
+ipykernel
+# solo para correr los tests
+pytest
