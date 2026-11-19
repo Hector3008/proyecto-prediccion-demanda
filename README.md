@@ -2,6 +2,7 @@
 
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Hector3008/proyecto-prediccion-demanda/blob/main/notebooks/proyecto_final.ipynb)
 
+
 Proyecto final de Machine Learning (Coderhouse). Predice cuántas unidades se venderán de cada código de repuesto en las
 **próximas 2 semanas**, a partir de cortes (snapshots) diarios de inventario y ventas de una importadora con dos almacenes (LV y SJL).
 Compara modelos clásicos de demanda intermitente (Croston, SBA, TSB) contra Ridge, Random Forest y XGBoost, con validación
@@ -92,7 +93,7 @@ proyecto-prediccion-demanda/
 ## 4. Cómo ejecutarlo
 
 **Opción A: Google Colab (sin instalar nada).** Abrir el notebook con el botón de arriba y *Entorno de ejecución → Ejecutar todo*.
-La primera celda clona el repositorio si hace falta e instala lo que falte.
+La primera celda clona el repositorio si hace falta e instala lo que falte. *Colab requiere una cuenta de Google para ejecutar; sin cuenta, usar la opción B (local).*
 
 **Opción B: local.**
 
